@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/siswa.css'); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/input.css'); ?>">
     <title>Form Input Data Siswa</title>
 </head>
 <body>
